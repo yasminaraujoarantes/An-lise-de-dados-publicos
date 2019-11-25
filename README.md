@@ -4,4 +4,4 @@ Tecnologias usadas
 python
 pandas
 matplot
-numpy
+
