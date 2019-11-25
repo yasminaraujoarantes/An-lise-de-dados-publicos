@@ -7,7 +7,4 @@ Projeto feito na disciplina (Estrutura de Dados do curso de ADS) pelos alunos:
 
 Professor Fernando Masanori 
 
-# Objetivo 
-
-Objetivo de projeto é mostrar a quantidade de alunos portadores de deficiência por estado que realizam o ENEM, através dos dados do INEP.  
 
