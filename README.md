@@ -7,6 +7,10 @@ Projeto feito na disciplina (Estrutura de Dados do curso de ADS) pelos alunos:
 
 Professor Fernando Masanori 
 
+Microdados obtipos através do site:
+
+http://portal.inep.gov.br/artigo/-/asset_publisher/B4AQV9zFY7Bv/content/inep-divulga-os-microdados-do-enem-2016/21206
+
 Visualizar Análise de Dados através do Kaggle:
 
 https://www.kaggle.com/yasminaraujo2/enem-2016-ep4/edit
