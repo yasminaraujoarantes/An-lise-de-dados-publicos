@@ -12,7 +12,9 @@ http://portal.inep.gov.br/microdados
 
 # Dicionário de variáveis utilizadas nos códigos fontes
 
-Dicionário de dados dos Cursos
+________________________________________________________________________________________________________________________________________
+
+# Dicionário de dados dos Cursos
 
 NU_ANO_CENSO: Ano de referência do Censo Superior 
 CO_UF: Codigo do IBGE da unidade da federação do local de oferta do curso presencial
@@ -73,4 +75,54 @@ QT_VAGA_TOTAL: Quantidade de vagas totais oferecidas no curso.
 QT_INGRESSO_TOTAL: Número de ingressantes no curso
 
 QT_CONCLUINTE_TOTAL:Número de concluintes no curso
+
+________________________________________________________________________________________________________________________________________
+
+# Dicionário de dados dos Docentes
+
+CO_DOCENTE: Código  de identificação gerado pelo Inep para o docente no Censo da Educação Superior
+
+TP_ESCOLARIDADE: Informa o grau de escolaridade do docente
+
+               1. Sem graduação
+               
+               2. Graduação
+               
+               3. Especialização 
+               
+               4. Mestrado
+               
+               5. Doutorado                      
+
+
+TP_SEXO: Sexo do docente
+
+               1. Feminino
+
+               2. Masculino            
+
+
+NU_IDADE:Idade que o docente completa no ano de referência do Censo
+             
+TP_DEFICIENCIA: Informa se o docente é uma pessoa com deficiência
+                          
+IN_DEFICIENCIA_CEGUEIRA: Informa se o docente é uma pessoa cega
+                          
+IN_DEFICIENCIA_BAIXA_VISAO: Informa se o docente é uma pessoa com baixa visão
+
+IN_DEFICIENCIA_SURDEZ:Informa se o docente é uma pessoa surda
+                          
+IN_DEFICIENCIA_FISICA: Informa se o docente é uma pessoa com deficiência física
+
+IN_DEFICIENCIA_MULTIPLA: Informa se o docente é uma pessoa com deficiência múltipla
+                          
+IN_DEFICIENCIA_SURDOCEGUEIRA: Informa se o docente é uma pessoa com surdocegueira
+
+IN_DEFICIENCIA_INTELECTUAL:Informa se o docente é uma pessoa com deficiência intelectual
+
+# Análise de Dados Enem - 2016 
+
+Visualizar através do seguinte link:
+
+https://www.kaggle.com/yasminaraujo2/enem-2016-ep4/edit
                   
