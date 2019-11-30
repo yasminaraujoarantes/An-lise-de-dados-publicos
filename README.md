@@ -10,9 +10,9 @@ Professor Fernando Masanori
 Os dados utilizados para análise foram retirados do site do INEP:
 http://portal.inep.gov.br/microdados
 
-Dicionário de variáveis utilizadas nos códigos fontes
+# Dicionário de variáveis utilizadas nos códigos fontes
 
-# Dicionário de dados dos Cursos
+Dicionário de dados dos Cursos
 
 NU_ANO_CENSO: Ano de referência do Censo Superior 
 CO_UF: Codigo do IBGE da unidade da federação do local de oferta do curso presencial
