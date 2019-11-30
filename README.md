@@ -27,25 +27,37 @@ TP_SITUACAO: Código da situação de funcionamento do curso
               3. Em extinção
               
 TP_GRAU_ACADEMICO: Código da situação de funcionamento do curso
+
               1. Bacharelado
+              
               2. Licenciatura
+              
               3. Tecnológico
+              
               4. Bacharelado e Licenciatura
+              
               (.) Não aplicável (cursos com nivel acadêmico igual a sequencial de formação específica ou  cursos de área básica de curso identificada pela variável TP_ATRIBUTO_INGRESSO)
 
 TP_MODALIDADE_ENSINO: Código da modalidade de ensino do curso
+
               1. Presencial
+              
               2. Curso a distância
            
 IN_GRATUITO: Informa se o curso é gratuito
+
               0. Não
+              
               1. Sim    
 
 NU_CARGA_HORARIA: Carga horária mínima do curso
 
 IN_INTEGRAL:Informa se o curso presencial funciona no turno integral
+
               0. Não
+              
               1. Sim
+              
               (.) Não aplicável (Cursos a distância)
 
 IN_MATUTINO:Informa se o curso presencial funciona no turno matutino
