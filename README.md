@@ -19,8 +19,11 @@ CO_UF: Codigo do IBGE da unidade da federação do local de oferta do curso pres
 CO_CURSO: Código único de identificação do curso
 NO_CURSO: Nome do curso
 TP_SITUACAO: Código da situação de funcionamento do curso
+
               1. Em atividade
+              
               2. Extinto
+              
               3. Em extinção
               
 TP_GRAU_ACADEMICO: Código da situação de funcionamento do curso
