@@ -1,4 +1,4 @@
-# Análise de Dados Públicos - Alunos deficientes que realizam o ENEM (ENEM 2016) 
+# Análise de Dados Públicos  
 
 Projeto feito na disciplina (Estrutura de Dados do curso de ADS) pelos alunos:
 
